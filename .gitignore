@@ -71,8 +71,4 @@ doc/api/
 
 # Testing and coverage
 coverage/
-<<<<<<< HEAD
 test/coverage/
-=======
-test/coverage/
->>>>>>> 8995aaa9a4a6b8cd03ae63a0ccb8351b26bf7c7f

@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# b2b_solution
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # B2B Solution Dashboard
 
 A professional Flutter-based B2B (Business-to-Business) dashboard solution designed for modern enterprises. This project serves as both a practical implementation and a learning resource for developers interested in building robust B2B applications.
@@ -93,7 +75,6 @@ For any queries, suggestions, or business inquiries:
 - Direct message on GitHub
 - Contact via email or LinkedIn
 
----
 
 ⭐ Don't forget to star this repository if you find it helpful!
->>>>>>> 8995aaa9a4a6b8cd03ae63a0ccb8351b26bf7c7f
+
